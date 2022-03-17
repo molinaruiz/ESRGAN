@@ -1,4 +1,4 @@
-### thi is the work of  xinntao [https://github.com/xinntao], Researcher at Tencent ARC Lab, (Applied Research Center) Shenzhen, China, and it is used just with studing ends.
+### This is the work of  xinntao [https://github.com/xinntao], Researcher at Tencent ARC Lab, (Applied Research Center) Shenzhen, China, and it is used just with studing ends.
 
 ## ESRGAN (Enhanced SRGAN) [:rocket: [BasicSR](https://github.com/xinntao/BasicSR)] [[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)]
 
