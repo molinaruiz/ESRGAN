@@ -1,3 +1,5 @@
+### thi is the work of  xinntao [https://github.com/xinntao], Researcher at Tencent ARC Lab, (Applied Research Center) Shenzhen, China, and it is used just with studing ends.
+
 ## ESRGAN (Enhanced SRGAN) [:rocket: [BasicSR](https://github.com/xinntao/BasicSR)] [[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)]
 
 :sparkles: **New Updates.**
@@ -200,3 +202,8 @@ larger training patch size. (Evaluated on Set5 dataset with RGB channels.)
   <img height="250" src="figures/patch_a.png">
   <img height="250" src="figures/patch_b.png">
 </p>
+
+
+
+## Some aplication in COLAB by google was found at 
+[https://colab.research.google.com/github/AhabbscienceStudioPak/ESRGAN/blob/master/ESRGAN_Colab.ipynb] which it has been found functional.
